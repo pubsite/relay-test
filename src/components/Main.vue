@@ -35,7 +35,7 @@
       </div>
     </div>
     <!-- 博客右侧内容 -->
-    <div class="blog-right-person">
+    <!-- <div class="blog-right-person">
       <div style="max-width: 25%">
         <img
           style="width: 100%; height: 100%"
@@ -44,7 +44,7 @@
         />
       </div>
       <div class="personMe">myName:WindyDante.EastWind</div>
-    </div>
+    </div> -->
   </div>
 </template>
 
@@ -135,7 +135,7 @@ onMounted(async () => {
 }
 .blog-complete-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 20px 0px;
 }
 
